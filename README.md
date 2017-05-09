@@ -1,4 +1,4 @@
-##Assignments for Udacity Deep Learning class with TensorFlow
+## Assignments for Udacity Deep Learning class with TensorFlow
 
 My own solutions to assigments for Udacity Deep Learning class with TensorFlow. 
 
