@@ -7,7 +7,7 @@ Dockerfile
 *.py[cod]
 
 # ignore the uncompleted assignments
-2_*
+#2_*
 3_*
 4_*
 5_*
